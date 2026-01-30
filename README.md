@@ -10,6 +10,19 @@ This theme is a port of the [Dracula Color Theme](https://github.com/kevinvn1709
 
 The color scheme has been converted to Zed Editor format using Zed's official [theme_importer](https://github.com/zed-industries/zed/tree/main/crates/theme_importer) tool, with additional adjustments for optimal appearance in Zed.
 
+## Installation
+
+### Install via Zed Extensions
+
+1. Open Zed
+2. `cmd+shift+p` and select _zed: extensions_
+3. Search/select _Darcula Darker Theme_ and Install
+
+### Install Manually
+
+1. Download [darcula-darker.json](./themes/darcula-darker.json)
+2. Put into `~/.config/zed/themes/`
+
 ## License
 
 MIT License
